@@ -1,3 +1,6 @@
+//Write a program in java to read a number through Keyboard and print the Square and Cube of it.
+
+
 import java.io.*;
 
 
